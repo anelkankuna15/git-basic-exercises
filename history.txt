@@ -1,0 +1,16 @@
+  427  cat README.md
+  428  git log
+  429  git branch -a
+  430  git checkout milkshake-flavours
+  431  git checkout -b milkshake-flavours
+  432  git branch -a
+  433  vi milkshakes.md
+  434  cat milkshakes.md
+  435  git status
+  436  git add .
+  437  git status
+  438  git commit -m "added initial flavours"
+  439  git log
+  440  git checkout main
+  441  git checkout -b history
+  442  git branch -a
