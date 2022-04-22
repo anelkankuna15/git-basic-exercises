@@ -1,8 +1,16 @@
-    1  ls
-    2  cd Desktop/
-    3  ls
-    4  ls
-    5  cd git-basic-exercises
-    6  git checkout history
-    7  clear
-
+  189  nano milkshakes.md
+  190  git status
+  191  git add
+  192  git add .
+  193  git status
+  194  git commit -m "added initial commit"
+  195  git log
+  196  git checkout main
+  197  git branch history
+  198  git log
+  199  git status
+  200  git checkout main
+  201  git branch history
+  202  git status
+  203  git log
+  204  git branch
