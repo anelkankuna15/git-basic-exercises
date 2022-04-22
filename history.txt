@@ -5,6 +5,4 @@
     5  cd git-basic-exercises
     6  git checkout history
     7  clear
-    8  history > history.txt                                                                    
-
 

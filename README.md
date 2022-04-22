@@ -1,3 +1,0 @@
-Hi I made it and now what...
-
-oh now I see everything is starting to make sense..
