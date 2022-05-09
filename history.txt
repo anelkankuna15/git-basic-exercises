@@ -1,16 +1,45 @@
-  189  nano milkshakes.md
-  190  git status
-  191  git add
-  192  git add .
-  193  git status
-  194  git commit -m "added initial commit"
-  195  git log
-  196  git checkout main
-  197  git branch history
-  198  git log
-  199  git status
-  200  git checkout main
-  201  git branch history
-  202  git status
-  203  git log
-  204  git branch
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  ls
+    5  cd git-basic-exercises
+    6  cd desktop
+    7  mkdir git-basic-exercises
+    8  cd git-basic-exercises/
+    9  ls
+   10  touch README.md
+   11  git add .
+   12  git commit -m "initial commit"
+   13  nano README.md
+   14  cat README.md
+   15  git status
+   16  git status
+   17  git add .
+   18  git status
+   19  git commit -m "second commit"
+   20  nano README.md
+   21  cat README.md
+   22  git add .
+   23  git commit -m "third commit"
+   24  git log
+   25  git checkout b4a0b9c6b99787d4e2853b79bb8d62c899e2d97a
+   26  cat README.md
+   27  git checkout main
+   28  git checkout -b main
+   29  cat README.md
+   30  git branch
+   31  git checkout -b milkshake-flavours
+   32  git branch
+   33  nano milkshakes.md
+   34  git status
+   35  git add .
+   36  git status
+   37  git commit -m "added initial flavours"
+   38  git log
+   39  git checkout -b main
+   40  git branch main
+   41  git checkout main
+   42  git checkout -b history
+   43  git log
+   44  git branch
+   45  history > history.txt
